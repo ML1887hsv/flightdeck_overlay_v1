@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>FlightDeck Overlay</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/style.css">
+
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+</head>
+
+<body>
+
+<div class="overlay">
+
+    <!-- ========================================================= -->
+    <!-- BRAND -->
+    <!-- ========================================================= -->
+
+    <div class="item brand">
+
+        <div class="icon">
+            <i data-lucide="plane"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">FLIGHT OPS</span>
+            <span class="value">MSFS 2024</span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- FLIGHT -->
+    <!-- ========================================================= -->
+
+    <div class="item">
+
+        <div class="icon">
+            <i data-lucide="hash"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">FLIGHT</span>
+
+            <span
+                class="value"
+                id="flight">
+
+                EDW25BX
+
+            </span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- AIRCRAFT -->
+    <!-- ========================================================= -->
+
+    <div class="item">
+
+        <div class="icon">
+            <i data-lucide="plane"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">AIRCRAFT</span>
+
+            <span
+                class="value"
+                id="aircraft">
+
+                Airbus A320neo
+
+            </span>
+
+        </div>
+
+    </div>
+
+       <!-- ========================================================= -->
+    <!-- DEPARTURE -->
+    <!-- ========================================================= -->
+
+    <div class="item">
+
+        <div class="icon">
+            <i data-lucide="plane-takeoff"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">DEPARTURE</span>
+
+            <span
+                class="value"
+                id="departure">
+
+                LEIB
+
+            </span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- ARRIVAL -->
+    <!-- ========================================================= -->
+
+    <div class="item">
+
+        <div class="icon">
+            <i data-lucide="plane-landing"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">ARRIVAL</span>
+
+            <span
+                class="value"
+                id="arrival">
+
+                LSZH
+
+            </span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- FLIGHT LEVEL -->
+    <!-- ========================================================= -->
+
+    <div class="item">
+
+        <div class="icon">
+            <i data-lucide="move-up"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">FLIGHT LEVEL</span>
+
+            <span
+                class="value"
+                id="fl">
+
+                FL360
+
+            </span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- FLIGHT TIME -->
+    <!-- ========================================================= -->
+
+    <div class="item">
+
+        <div class="icon">
+            <i data-lucide="clock-3"></i>
+        </div>
+
+        <div class="content">
+
+            <span class="label">FLIGHT TIME</span>
+
+            <span
+                class="value"
+                id="time">
+
+                02:10
+
+            </span>
+
+        </div>
+
+    </div>
+
+    <!-- ========================================================= -->
+    <!-- STATUS -->
+    <!-- ========================================================= -->
+
+    <div class="item status">
+
+        <div class="status-dot"></div>
+
+        <div class="content">
+
+            <span class="label">STATUS</span>
+
+            <span
+                class="value"
+                id="statusText">
+
+                LIVE
+
+            </span>
+
+        </div>
+
+    </div>
+
+</div>
+
+<script src="js/script.js"></script>
+
+<script>
+    lucide.createIcons();
+</script>
+
+</body>
+</html>

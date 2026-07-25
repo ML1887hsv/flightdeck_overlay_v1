@@ -1,0 +1,235 @@
+/* ==========================================================
+   FlightDeck Overlay V4
+   Modern Airline Style
+========================================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    width:1920px;
+    background:transparent;
+    overflow:hidden;
+    font-family:'Inter',sans-serif;
+
+}
+
+/* ==========================================================
+   Overlay
+========================================================== */
+
+.overlay{
+
+    width:100%;
+    max-width:1920px;
+    margin:0 auto;
+    height:56px;
+
+    display:grid;
+
+    grid-template-columns:repeat(8,minmax(0,1fr));
+
+    background:#0B1220;
+
+    border-bottom:2px solid #3B82F6;
+
+}
+
+/* ==========================================================
+   Gemeinsame Spalten
+========================================================== */
+
+.item,
+.brand{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:12px;
+
+    padding:0 14px;
+
+    min-width:0;
+
+    overflow:hidden;
+
+    border-right:1px solid rgba(255,255,255,.06);
+
+
+.item:last-child{
+
+    border-right:none;
+
+}
+
+/* ==========================================================
+   Logo
+========================================================== */
+
+.brand{
+
+    position:relative;
+
+}
+
+.brand::after{
+
+    content:"";
+
+    position:absolute;
+
+    left:36px;
+
+    top:10px;
+
+    bottom:10px;
+
+    width:2px;
+
+    background:#3B82F6;
+
+}
+
+.brand .icon{
+
+    width:22px;
+    height:22px;
+
+    color:#F8FAFC;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+
+}
+
+.brand .content{
+
+    margin-left:10px;
+
+}
+
+/* ==========================================================
+   Icons
+========================================================== */
+
+.icon{
+
+    width:22px;
+    height:22px;
+
+    display:flex;
+
+    align-items:center;
+    justify-content:center;
+
+    color:#F8FAFC;
+
+    flex-shrink:0;
+
+}
+
+.icon svg{
+
+    width:20px;
+    height:20px;
+
+    stroke-width:2;
+
+}
+
+/* ==========================================================
+   Text
+========================================================== */
+
+.content{
+
+    display:flex;
+
+    flex-direction:column;
+
+    justify-content:center;
+
+    flex:1;
+
+    min-width:0;
+
+}
+
+.label{
+
+    color:#94A3B8;
+
+    font-size:8px;
+
+    font-weight:700;
+
+    letter-spacing:2px;
+
+    text-transform:uppercase;
+
+    margin-bottom:3px;
+
+}
+
+.value{
+
+    color:#F8FAFC;
+
+    font-size:13px;
+
+    font-weight:700;
+
+    white-space:nowrap;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
+
+}
+
+/* ==========================================================
+   Status
+========================================================== */
+
+.status-dot{
+
+    width:10px;
+    height:10px;
+
+    border-radius:50%;
+
+    background:#22C55E;
+
+    box-shadow:0 0 10px rgba(34,197,94,.6);
+
+    flex-shrink:0;
+
+}
+
+/* ==========================================================
+   Hover
+========================================================== */
+
+.item{
+
+    transition:background .2s ease;
+
+}
+
+.item:hover{
+
+    background:rgba(255,255,255,.025);
+
+}
+
+svg{
+
+    color:#F8FAFC;
+
+}

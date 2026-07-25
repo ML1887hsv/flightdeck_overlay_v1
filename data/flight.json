@@ -1,0 +1,9 @@
+{
+    "flight": "EDW25BX",
+    "aircraft": "Airbus A320neo",
+    "departure": "LEIB",
+    "arrival": "LSZH",
+    "flightLevel": "FL360",
+    "flightTime": "02:10",
+    "status": "LIVE"
+}
