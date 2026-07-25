@@ -31,7 +31,15 @@ body{
 
     display:grid;
 
-    grid-template-columns:repeat(8,minmax(0,1fr));
+    grid-template-columns:
+260px
+280px
+290px
+260px
+260px
+190px
+160px
+80px;
 
     background:#0B1220;
 
