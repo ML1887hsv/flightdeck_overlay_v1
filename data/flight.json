@@ -1,9 +1,9 @@
 {
-    "flight": "EDW25BX",
+    "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "LEIB",
-    "arrival": "LSZH",
-    "flightLevel": "FL360",
-    "flightTime": "02:10",
+    "departure": "EDDH",
+    "arrival": "EDDM",
+    "flightLevel": "FL350",
+    "flightTime": "01:07",
     "status": "LIVE"
 }
