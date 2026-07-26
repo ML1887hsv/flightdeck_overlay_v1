@@ -2,8 +2,8 @@
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
     "departure": "EDDH",
-    "arrival": "EDDM",
-    "flightLevel": "FL350",
-    "flightTime": "01:07",
+    "arrival": "LIMJ",
+    "flightLevel": "FL330",
+    "flightTime": "01:38",
     "status": "LIVE"
 }
