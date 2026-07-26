@@ -11,7 +11,7 @@
 
 body{
 
-    width:1920px;
+    width:100%;
     background:transparent;
     overflow:hidden;
     font-family:'Inter',sans-serif;
@@ -24,20 +24,19 @@ body{
 
 .overlay{
     width:100%;
-    max-width:1920px;
     height:56px;
 
     display:grid;
 
     grid-template-columns:
-    260px
-    280px
-    290px
-    260px
-    260px
-    180px
-    150px
-    80px;
+    1.45fr
+    1.55fr
+    1.70fr
+    1.45fr
+    1.45fr
+    1.05fr
+    0.90fr
+    0.60fr;
 
     background:#0B1220;
     border-bottom:2px solid #3B82F6;
@@ -64,6 +63,7 @@ body{
 
     border-right:1px solid rgba(255,255,255,.06);
 
+}
 
 .item:last-child{
 
