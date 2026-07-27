@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
+    "flight": "G-NELR",
     "aircraft": "Airbus A320neo",
-    "departure": "LPFR",
-    "arrival": "LPMA",
-    "flightLevel": "FL370",
-    "flightTime": "01:31",
+    "departure": "LEBB",
+    "arrival": "LIEE",
+    "flightLevel": "FL350",
+    "flightTime": "01:41",
     "status": "LIVE"
 }
