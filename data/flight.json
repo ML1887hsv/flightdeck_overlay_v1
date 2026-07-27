@@ -1,9 +1,9 @@
 {
     "flight": "G-NELR",
     "aircraft": "Airbus A320neo",
-    "departure": "LEBB",
-    "arrival": "LIEE",
+    "departure": "LIEE",
+    "arrival": "LSGG",
     "flightLevel": "FL350",
-    "flightTime": "01:41",
+    "flightTime": "01:20",
     "status": "LIVE"
 }
