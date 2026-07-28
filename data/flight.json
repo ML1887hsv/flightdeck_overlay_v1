@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCG",
     "aircraft": "Airbus A320neo",
-    "departure": "EGGP",
-    "arrival": "LFPG",
-    "flightLevel": "FL390",
-    "flightTime": "00:55",
+    "departure": "LIRF",
+    "arrival": "EGLL",
+    "flightLevel": "FL360",
+    "flightTime": "02:01",
     "status": "LIVE"
 }
