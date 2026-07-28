@@ -1,9 +1,9 @@
 {
-    "flight": "G-NELR",
+    "flight": "G-NIEO",
     "aircraft": "Airbus A320neo",
-    "departure": "LIEE",
-    "arrival": "LSGG",
-    "flightLevel": "FL350",
-    "flightTime": "01:20",
+    "departure": "LSGG",
+    "arrival": "EDDH",
+    "flightLevel": "FL390",
+    "flightTime": "01:24",
     "status": "LIVE"
 }
