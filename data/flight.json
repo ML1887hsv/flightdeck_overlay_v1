@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCG",
     "aircraft": "Airbus A320neo",
-    "departure": "EGLL",
-    "arrival": "EDDH",
-    "flightLevel": "FL410",
-    "flightTime": "01:02",
+    "departure": "KEWR",
+    "arrival": "KMCO",
+    "flightLevel": "FL400",
+    "flightTime": "02:08",
     "status": "LIVE"
 }
