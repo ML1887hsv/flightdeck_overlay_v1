@@ -1,9 +1,9 @@
 {
-    "flight": "G-CCCG",
+    "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "KEWR",
-    "arrival": "KMCO",
-    "flightLevel": "FL400",
-    "flightTime": "02:08",
+    "departure": "EDDH",
+    "arrival": "LQSA",
+    "flightLevel": "FL390",
+    "flightTime": "01:44",
     "status": "LIVE"
 }
