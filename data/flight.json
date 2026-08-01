@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "LIRF",
-    "arrival": "EGLL",
-    "flightLevel": "FL380",
-    "flightTime": "02:14",
+    "departure": "EGLL",
+    "arrival": "EDDH",
+    "flightLevel": "FL390",
+    "flightTime": "01:09",
     "status": "LIVE"
 }
