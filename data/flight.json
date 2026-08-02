@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "LEBB",
-    "arrival": "LPMA",
+    "departure": "OJAI",
+    "arrival": "OBBI",
     "flightLevel": "FL390",
-    "flightTime": "02:43",
+    "flightTime": "02:13",
     "status": "LIVE"
 }
