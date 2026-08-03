@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
+    "aircraft": "Airbus A321LR",
     "departure": "LOWI",
-    "arrival": "LIPB",
-    "flightLevel": "FL130",
-    "flightTime": "00:30",
+    "arrival": "EHAM",
+    "flightLevel": "FL360",
+    "flightTime": "01:17",
     "status": "LIVE"
 }
