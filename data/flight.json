@@ -1,9 +1,9 @@
 {
     "flight": "G-NELR",
     "aircraft": "Airbus A321LR",
-    "departure": "EHAM",
-    "arrival": "ENTC",
-    "flightLevel": "FL370",
-    "flightTime": "02:43",
+    "departure": "LEMD",
+    "arrival": "EDDH",
+    "flightLevel": "FL340",
+    "flightTime": "02:24",
     "status": "LIVE"
 }
