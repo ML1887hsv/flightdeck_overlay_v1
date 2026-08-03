@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "KLAX",
-    "arrival": "KSFO",
-    "flightLevel": "FL380",
-    "flightTime": "00:53",
+    "departure": "LOWI",
+    "arrival": "LIPB",
+    "flightLevel": "FL130",
+    "flightTime": "00:30",
     "status": "LIVE"
 }
