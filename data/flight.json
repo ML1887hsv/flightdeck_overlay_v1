@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
+    "flight": "G-NELR",
     "aircraft": "Airbus A321LR",
-    "departure": "LOWI",
-    "arrival": "EHAM",
-    "flightLevel": "FL360",
-    "flightTime": "01:17",
+    "departure": "EHAM",
+    "arrival": "ENTC",
+    "flightLevel": "FL370",
+    "flightTime": "02:43",
     "status": "LIVE"
 }
