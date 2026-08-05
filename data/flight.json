@@ -1,9 +1,9 @@
 {
     "flight": "G-NELR",
     "aircraft": "Airbus A321LR",
-    "departure": "KDFW",
-    "arrival": "KATL",
-    "flightLevel": "FL390",
-    "flightTime": "01:40",
+    "departure": "LEPA",
+    "arrival": "LGKR",
+    "flightLevel": "FL380",
+    "flightTime": "02:15",
     "status": "LIVE"
 }
