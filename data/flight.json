@@ -1,9 +1,9 @@
 {
     "flight": "G-NELR",
     "aircraft": "Airbus A321LR",
-    "departure": "LEPA",
-    "arrival": "LGKR",
-    "flightLevel": "FL380",
-    "flightTime": "02:15",
+    "departure": "EDDH",
+    "arrival": "LSZH",
+    "flightLevel": "FL330",
+    "flightTime": "01:15",
     "status": "LIVE"
 }
