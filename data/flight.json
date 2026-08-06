@@ -1,9 +1,9 @@
 {
     "flight": "G-NELR",
     "aircraft": "Airbus A321LR",
-    "departure": "EDDH",
-    "arrival": "LSZH",
-    "flightLevel": "FL330",
-    "flightTime": "01:15",
+    "departure": "CYVR",
+    "arrival": "PANC",
+    "flightLevel": "FL380",
+    "flightTime": "02:58",
     "status": "LIVE"
 }
