@@ -1,9 +1,9 @@
 {
     "flight": "G-NELR",
     "aircraft": "Airbus A321LR",
-    "departure": "EDDM",
-    "arrival": "LPFR",
-    "flightLevel": "FL330",
-    "flightTime": "03:02",
+    "departure": "LPFR",
+    "arrival": "LPMA",
+    "flightLevel": "FL350",
+    "flightTime": "01:34",
     "status": "LIVE"
 }
