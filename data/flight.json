@@ -1,9 +1,9 @@
 {
-    "flight": "G-NELR",
+    "flight": "G-CCBG",
     "aircraft": "Airbus A321LR",
-    "departure": "LPFR",
-    "arrival": "LPMA",
-    "flightLevel": "FL350",
-    "flightTime": "01:34",
+    "departure": "EDDF",
+    "arrival": "VTBS",
+    "flightLevel": "FL310",
+    "flightTime": "10:29",
     "status": "LIVE"
 }
