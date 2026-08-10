@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBG",
-    "aircraft": "Airbus A330-200",
-    "departure": "EDDF",
-    "arrival": "VTBS",
-    "flightLevel": "FL310",
-    "flightTime": "10:29",
+    "aircraft": "Airbus A320neo",
+    "departure": "LEPA",
+    "arrival": "LXGB",
+    "flightLevel": "FL370",
+    "flightTime": "01:21",
     "status": "LIVE"
 }
