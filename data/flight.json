@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "LXGB",
-    "arrival": "GMMX",
+    "departure": "GMMX",
+    "arrival": "GVAC",
     "flightLevel": "FL370",
-    "flightTime": "00:58",
+    "flightTime": "03:02",
     "status": "LIVE"
 }
