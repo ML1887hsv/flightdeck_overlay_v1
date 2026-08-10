@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "GMMX",
-    "arrival": "GVAC",
-    "flightLevel": "FL370",
-    "flightTime": "03:02",
+    "departure": "KASE",
+    "arrival": "KSEZ",
+    "flightLevel": "FL380",
+    "flightTime": "01:11",
     "status": "LIVE"
 }
