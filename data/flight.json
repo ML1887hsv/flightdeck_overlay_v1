@@ -1,9 +1,9 @@
 {
-    "flight": "G-CCBG",
+    "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "LEPA",
-    "arrival": "LXGB",
+    "departure": "LXGB",
+    "arrival": "GMMX",
     "flightLevel": "FL370",
-    "flightTime": "01:21",
+    "flightTime": "00:58",
     "status": "LIVE"
 }
