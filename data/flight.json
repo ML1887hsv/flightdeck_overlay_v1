@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "KASE",
-    "arrival": "KSEZ",
-    "flightLevel": "FL380",
-    "flightTime": "01:11",
+    "departure": "EDDH",
+    "arrival": "ENTC",
+    "flightLevel": "FL390",
+    "flightTime": "02:33",
     "status": "LIVE"
 }
