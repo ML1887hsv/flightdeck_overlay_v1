@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "ENTC",
-    "arrival": "ULAA",
-    "flightLevel": "FL390",
-    "flightTime": "01:35",
+    "aircraft": "Airbus A330-300",
+    "departure": "ZSSS",
+    "arrival": "VHHH",
+    "flightLevel": "FL400",
+    "flightTime": "01:51",
     "status": "LIVE"
 }
