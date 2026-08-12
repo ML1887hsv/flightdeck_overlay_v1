@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A330-300",
-    "departure": "ZSSS",
-    "arrival": "VHHH",
-    "flightLevel": "FL400",
-    "flightTime": "01:51",
+    "departure": "KORD",
+    "arrival": "KBOS",
+    "flightLevel": "FL390",
+    "flightTime": "01:43",
     "status": "LIVE"
 }
