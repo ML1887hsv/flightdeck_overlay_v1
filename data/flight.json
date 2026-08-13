@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
+    "flight": "G-CCCG",
     "aircraft": "Airbus A330-300",
-    "departure": "KORD",
-    "arrival": "KBOS",
-    "flightLevel": "FL390",
-    "flightTime": "01:43",
+    "departure": "KLAS",
+    "arrival": "KSFO",
+    "flightLevel": "FL400",
+    "flightTime": "01:02",
     "status": "LIVE"
 }
