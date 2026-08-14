@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCG",
     "aircraft": "Airbus A330-300",
-    "departure": "KLAS",
-    "arrival": "KSFO",
-    "flightLevel": "FL400",
-    "flightTime": "01:02",
+    "departure": "KATL",
+    "arrival": "KBOS",
+    "flightLevel": "FL410",
+    "flightTime": "02:04",
     "status": "LIVE"
 }
