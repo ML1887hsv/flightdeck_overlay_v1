@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "FACT",
-    "arrival": "FVFA",
-    "flightLevel": "FL350",
-    "flightTime": "02:33",
+    "aircraft": "Airbus Beluga XL",
+    "departure": "EDHI",
+    "arrival": "LFRS",
+    "flightLevel": "FL300",
+    "flightTime": "01:35",
     "status": "LIVE"
 }
