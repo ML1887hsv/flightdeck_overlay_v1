@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
-    "aircraft": "Airbus Beluga XL",
-    "departure": "EDHI",
-    "arrival": "LFRS",
-    "flightLevel": "FL300",
-    "flightTime": "01:35",
+    "aircraft": "Airbus A320neo",
+    "departure": "KLAX",
+    "arrival": "KSEZ",
+    "flightLevel": "FL390",
+    "flightTime": "00:56",
     "status": "LIVE"
 }
