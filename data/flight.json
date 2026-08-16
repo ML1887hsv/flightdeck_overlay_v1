@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "KLAX",
-    "arrival": "KSEZ",
-    "flightLevel": "FL390",
-    "flightTime": "00:56",
+    "aircraft": "Airbus A330-300",
+    "departure": "EDDH",
+    "arrival": "LOWI",
+    "flightLevel": "FL410",
+    "flightTime": "01:07",
     "status": "LIVE"
 }
