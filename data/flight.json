@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
+    "flight": "G-CCCG",
     "aircraft": "Airbus A330-300",
-    "departure": "EDDH",
-    "arrival": "LOWI",
-    "flightLevel": "FL410",
-    "flightTime": "01:07",
+    "departure": "LOWI",
+    "arrival": "LICC",
+    "flightLevel": "FL350",
+    "flightTime": "01:46",
     "status": "LIVE"
 }
