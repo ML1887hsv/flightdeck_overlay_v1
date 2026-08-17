@@ -1,9 +1,9 @@
 {
-    "flight": "G-CCCG",
-    "aircraft": "Airbus A330-300",
-    "departure": "LOWI",
-    "arrival": "LICC",
-    "flightLevel": "FL350",
-    "flightTime": "01:46",
+    "flight": "G-INEO",
+    "aircraft": "Airbus A320neo",
+    "departure": "VECC",
+    "arrival": "VQPR",
+    "flightLevel": "FL370",
+    "flightTime": "01:01",
     "status": "LIVE"
 }
