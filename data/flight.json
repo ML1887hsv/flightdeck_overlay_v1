@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "VECC",
-    "arrival": "VQPR",
+    "flight": "G-NELR",
+    "aircraft": "Airbus A321LR",
+    "departure": "RJFU",
+    "arrival": "RJTT",
     "flightLevel": "FL370",
-    "flightTime": "01:01",
+    "flightTime": "01:28",
     "status": "LIVE"
 }
