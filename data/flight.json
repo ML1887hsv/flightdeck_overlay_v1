@@ -1,9 +1,9 @@
 {
-    "flight": "G-NELR",
-    "aircraft": "Airbus A321LR",
-    "departure": "RJFU",
-    "arrival": "RJTT",
-    "flightLevel": "FL370",
-    "flightTime": "01:28",
+    "flight": "G-INEO",
+    "aircraft": "Airbus A320neo",
+    "departure": "EDDH",
+    "arrival": "EGLC",
+    "flightLevel": "FL360",
+    "flightTime": "01:13",
     "status": "LIVE"
 }
