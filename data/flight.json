@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "EDDH",
-    "arrival": "EGLC",
-    "flightLevel": "FL360",
-    "flightTime": "01:13",
+    "flight": "G-CCCG",
+    "aircraft": "Airbus A330-300",
+    "departure": "ENTC",
+    "arrival": "ENSB",
+    "flightLevel": "FL400",
+    "flightTime": "01:18",
     "status": "LIVE"
 }
