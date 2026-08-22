@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCG",
     "aircraft": "Airbus A330-300",
-    "departure": "EHAM",
-    "arrival": "LDSP",
+    "departure": "LFPG",
+    "arrival": "LIPZ",
     "flightLevel": "FL370",
-    "flightTime": "01:47",
+    "flightTime": "01:08",
     "status": "LIVE"
 }
