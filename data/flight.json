@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCG",
     "aircraft": "Airbus A330-300",
-    "departure": "ENTC",
-    "arrival": "ENSB",
-    "flightLevel": "FL400",
-    "flightTime": "01:18",
+    "departure": "EDDH",
+    "arrival": "LDSP",
+    "flightLevel": "FL370",
+    "flightTime": "01:47",
     "status": "LIVE"
 }
