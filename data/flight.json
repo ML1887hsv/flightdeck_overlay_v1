@@ -1,9 +1,9 @@
 {
-    "flight": "G-CCCG",
-    "aircraft": "Airbus A330-300",
-    "departure": "EDDH",
-    "arrival": "LIRN",
-    "flightLevel": "FL370",
-    "flightTime": "01:58",
+    "flight": "G-INEO",
+    "aircraft": "Airbus A320neo",
+    "departure": "VQPR",
+    "arrival": "VNKT",
+    "flightLevel": "FL340",
+    "flightTime": "00:46",
     "status": "LIVE"
 }
