@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "VQPR",
-    "arrival": "VNKT",
-    "flightLevel": "FL340",
-    "flightTime": "00:46",
+    "departure": "KSWF",
+    "arrival": "CYTZ",
+    "flightLevel": "FL360",
+    "flightTime": "01:00",
     "status": "LIVE"
 }
