@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "KSWF",
-    "arrival": "CYTZ",
-    "flightLevel": "FL360",
-    "flightTime": "01:00",
+    "departure": "EDDH",
+    "arrival": "EGLL",
+    "flightLevel": "FL380",
+    "flightTime": "01:12",
     "status": "LIVE"
 }
