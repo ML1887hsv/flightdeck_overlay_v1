@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "BIKF",
-    "arrival": "BGGH",
+    "departure": "BGGH",
+    "arrival": "CYUL",
     "flightLevel": "FL380",
-    "flightTime": "02:05",
+    "flightTime": "03:24",
     "status": "LIVE"
 }
