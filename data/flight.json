@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "CYUL",
-    "arrival": "KJFK",
-    "flightLevel": "FL360",
-    "flightTime": "00:55",
+    "departure": "KJFK",
+    "arrival": "KIAD",
+    "flightLevel": "FL300",
+    "flightTime": "00:44",
     "status": "LIVE"
 }
