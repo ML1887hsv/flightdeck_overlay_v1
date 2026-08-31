@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "KMIA",
-    "arrival": "MYNN",
-    "flightLevel": "FL170",
-    "flightTime": "00:35",
+    "departure": "MYNN",
+    "arrival": "TJSJ",
+    "flightLevel": "FL390",
+    "flightTime": "01:56",
     "status": "LIVE"
 }
