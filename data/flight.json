@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "KIAD",
-    "arrival": "KMIA",
-    "flightLevel": "FL380",
-    "flightTime": "02:21",
+    "departure": "KMIA",
+    "arrival": "MYNN",
+    "flightLevel": "FL170",
+    "flightTime": "00:35",
     "status": "LIVE"
 }
