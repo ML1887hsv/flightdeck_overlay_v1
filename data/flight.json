@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "TJSJ",
-    "arrival": "MDPC",
-    "flightLevel": "FL200",
-    "flightTime": "00:36",
+    "departure": "MDPC",
+    "arrival": "MPTO",
+    "flightLevel": "FL380",
+    "flightTime": "02:37",
     "status": "LIVE"
 }
