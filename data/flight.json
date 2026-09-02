@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "MDPC",
-    "arrival": "MPTO",
-    "flightLevel": "FL380",
-    "flightTime": "02:37",
+    "departure": "MPTO",
+    "arrival": "SKBO",
+    "flightLevel": "FL370",
+    "flightTime": "01:16",
     "status": "LIVE"
 }
