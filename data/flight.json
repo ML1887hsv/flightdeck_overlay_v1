@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "SKBO",
-    "arrival": "SEQM",
-    "flightLevel": "FL230",
-    "flightTime": "01:14",
+    "departure": "SEQM",
+    "arrival": "SPJC",
+    "flightLevel": "FL370",
+    "flightTime": "01:53",
     "status": "LIVE"
 }
