@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "SPJC",
-    "arrival": "SPZO",
-    "flightLevel": "FL370",
-    "flightTime": "01:04",
+    "departure": "SPZO",
+    "arrival": "SCEL",
+    "flightLevel": "FL390",
+    "flightTime": "02:53",
     "status": "LIVE"
 }
