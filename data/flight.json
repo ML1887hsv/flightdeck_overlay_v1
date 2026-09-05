@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "SCCI",
-    "arrival": "SAWH",
-    "flightLevel": "FL390",
-    "flightTime": "00:54",
+    "departure": "SAWH",
+    "arrival": "SCEL",
+    "flightLevel": "FL380",
+    "flightTime": "03:24",
     "status": "LIVE"
 }
