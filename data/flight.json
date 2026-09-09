@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBG",
     "aircraft": "Airbus A330-200",
-    "departure": "SCIP",
-    "arrival": "NTAA",
-    "flightLevel": "FL380",
-    "flightTime": "06:11",
+    "departure": "NTAA",
+    "arrival": "NTTB",
+    "flightLevel": "FL200",
+    "flightTime": "00:41",
     "status": "LIVE"
 }
