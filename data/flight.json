@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "NZAA",
-    "arrival": "NZQN",
-    "flightLevel": "FL380",
-    "flightTime": "01:46",
+    "departure": "NZQN",
+    "arrival": "YSSY",
+    "flightLevel": "FL360",
+    "flightTime": "02:52",
     "status": "LIVE"
 }
