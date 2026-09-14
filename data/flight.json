@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "WMKK",
-    "arrival": "VTBS",
-    "flightLevel": "FL380",
-    "flightTime": "01:50",
+    "flight": "G-CCBR",
+    "aircraft": "Airbus A330-200RR",
+    "departure": "VTBS",
+    "arrival": "VHHH",
+    "flightLevel": "FL410",
+    "flightTime": "02:18",
     "status": "LIVE"
 }
