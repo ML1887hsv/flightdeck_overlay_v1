@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "VTBS",
-    "arrival": "VHHH",
-    "flightLevel": "FL410",
-    "flightTime": "02:18",
+    "departure": "VHHH",
+    "arrival": "RCTP",
+    "flightLevel": "FL390",
+    "flightTime": "01:16",
     "status": "LIVE"
 }
