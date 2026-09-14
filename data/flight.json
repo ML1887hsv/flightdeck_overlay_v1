@@ -1,9 +1,9 @@
 {
     "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "YPDN",
-    "arrival": "WADD",
+    "departure": "WADD",
+    "arrival": "WSSS",
     "flightLevel": "FL380",
-    "flightTime": "02:33",
+    "flightTime": "02:24",
     "status": "LIVE"
 }
