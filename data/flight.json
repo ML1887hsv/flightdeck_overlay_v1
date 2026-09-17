@@ -1,8 +1,8 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "ZSPD",
-    "arrival": "ZUUU",
+    "departure": "ZUUU",
+    "arrival": "VNKT",
     "flightLevel": "FL400",
     "flightTime": "02:39",
     "status": "LIVE"
