@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "RJCC",
-    "arrival": "RKSI",
+    "departure": "ZSPD",
+    "arrival": "ZUUU",
     "flightLevel": "FL400",
-    "flightTime": "02:51",
+    "flightTime": "02:39",
     "status": "LIVE"
 }
