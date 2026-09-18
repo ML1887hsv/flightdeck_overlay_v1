@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
-    "aircraft": "Airbus A320neo",
+    "aircraft": "Airbus A330-200RR",
     "departure": "VNKT",
-    "arrival": "VQPR",
-    "flightLevel": "FL370",
-    "flightTime": "00:46",
+    "arrival": "VIDP",
+    "flightLevel": "FL400",
+    "flightTime": "01:15",
     "status": "LIVE"
 }
