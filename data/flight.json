@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "VIDP",
-    "arrival": "OMDB",
-    "flightLevel": "FL400",
-    "flightTime": "03:05",
+    "departure": "OMDB",
+    "arrival": "OOMS",
+    "flightLevel": "FL250",
+    "flightTime": "00:39",
     "status": "LIVE"
 }
