@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "OOMA",
-    "arrival": "HECA",
-    "flightLevel": "FL400",
-    "flightTime": "03:18",
+    "departure": "HECA",
+    "arrival": "HKJK",
+    "flightLevel": "FL410",
+    "flightTime": "04:38",
     "status": "LIVE"
 }
