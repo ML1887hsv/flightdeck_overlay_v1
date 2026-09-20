@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "HKJK",
-    "arrival": "HTKJ",
-    "flightLevel": "FL250",
-    "flightTime": "00:31",
+    "departure": "HTKJ",
+    "arrival": "FACT",
+    "flightLevel": "FL400",
+    "flightTime": "05:11",
     "status": "LIVE"
 }
