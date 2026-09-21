@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A320neo",
-    "departure": "LEMD",
-    "arrival": "LSZH",
-    "flightLevel": "FL360",
-    "flightTime": "02:06",
+    "departure": "LSZH",
+    "arrival": "LOWI",
+    "flightLevel": "FL250",
+    "flightTime": "00:42",
     "status": "LIVE"
 }
