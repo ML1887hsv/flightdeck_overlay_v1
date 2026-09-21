@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
-    "aircraft": "Airbus A330-200RR",
-    "departure": "FACT",
-    "arrival": "LPPT",
+    "aircraft": "Airbus A320neo",
+    "departure": "LPPT",
+    "arrival": "LPMA",
     "flightLevel": "FL370",
-    "flightTime": "10:24",
+    "flightTime": "01:26",
     "status": "LIVE"
 }
