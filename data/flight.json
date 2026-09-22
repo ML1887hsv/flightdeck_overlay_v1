@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-300RR",
-    "departure": "EDDH",
-    "arrival": "EBBR",
-    "flightLevel": "FL360",
-    "flightTime": "00:59",
+    "departure": "EBBR",
+    "arrival": "LFMT",
+    "flightLevel": "FL330",
+    "flightTime": "01:19",
     "status": "LIVE"
 }
