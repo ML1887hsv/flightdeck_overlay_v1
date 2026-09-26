@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "LEIB",
-    "arrival": "LIEE",
-    "flightLevel": "FL370",
-    "flightTime": "01:00",
+    "departure": "LIEE",
+    "arrival": "LIPZ",
+    "flightLevel": "FL340",
+    "flightTime": "01:10",
     "status": "LIVE"
 }
