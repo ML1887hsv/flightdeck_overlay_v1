@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "LIEE",
-    "arrival": "LIPZ",
-    "flightLevel": "FL340",
-    "flightTime": "01:10",
+    "departure": "KRTS",
+    "arrival": "KSEZ",
+    "flightLevel": "FL170",
+    "flightTime": "01:24",
     "status": "LIVE"
 }
