@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "KRTS",
-    "arrival": "KSEZ",
-    "flightLevel": "FL170",
-    "flightTime": "01:24",
+    "departure": "EDDH",
+    "arrival": "LICJ",
+    "flightLevel": "FL410",
+    "flightTime": "02:22",
     "status": "LIVE"
 }
