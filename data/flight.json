@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A330-200RR",
-    "departure": "EDDH",
-    "arrival": "LICJ",
-    "flightLevel": "FL410",
-    "flightTime": "02:22",
+    "departure": "LHBP",
+    "arrival": "LDZA",
+    "flightLevel": "FL380",
+    "flightTime": "00:44",
     "status": "LIVE"
 }
