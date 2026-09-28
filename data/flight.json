@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
-    "aircraft": "Airbus A330-200RR",
-    "departure": "LDZA",
-    "arrival": "LJLJ",
-    "flightLevel": "FL160",
-    "flightTime": "00:20",
+    "aircraft": "Airbus A320neo",
+    "departure": "MDPC",
+    "arrival": "TNCM",
+    "flightLevel": "FL390",
+    "flightTime": "00:53",
     "status": "LIVE"
 }
