@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A320neo",
-    "departure": "SCCI",
-    "arrival": "SAWH",
-    "flightLevel": "FL230",
-    "flightTime": "00:43",
+    "departure": "SPJC",
+    "arrival": "SPZO",
+    "flightLevel": "FL370",
+    "flightTime": "00:57",
     "status": "LIVE"
 }
