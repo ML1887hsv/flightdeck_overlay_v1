@@ -1,9 +1,9 @@
 {
     "flight": "G-CCBR",
     "aircraft": "Airbus A320neo",
-    "departure": "EDDH",
-    "arrival": "LGIR",
-    "flightLevel": "FL390",
-    "flightTime": "03:13",
+    "departure": "LGIR",
+    "arrival": "EDDH",
+    "flightLevel": "FL360",
+    "flightTime": "03:16",
     "status": "LIVE"
 }
