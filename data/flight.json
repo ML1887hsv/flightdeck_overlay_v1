@@ -1,9 +1,9 @@
 {
-    "flight": "G-CCBR",
-    "aircraft": "Airbus A321LR",
-    "departure": "EHAM",
-    "arrival": "EIDW",
-    "flightLevel": "FL380",
-    "flightTime": "01:28",
+    "flight": "G-CCCR",
+    "aircraft": "Airbus A330-300",
+    "departure": "KATL",
+    "arrival": "KJFK",
+    "flightLevel": "FL410",
+    "flightTime": "01:50",
     "status": "LIVE"
 }
