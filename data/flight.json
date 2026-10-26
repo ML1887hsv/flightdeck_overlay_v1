@@ -2,8 +2,8 @@
     "flight": "G-CCCR",
     "aircraft": "Airbus A330-300",
     "departure": "LEBB",
-    "arrival": "LIRP",
-    "flightLevel": "FL400",
-    "flightTime": "01:27",
+    "arrival": "LPFR",
+    "flightLevel": "FL390",
+    "flightTime": "01:19",
     "status": "LIVE"
 }
