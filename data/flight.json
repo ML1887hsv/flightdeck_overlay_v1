@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCR",
     "aircraft": "Airbus A330-300",
-    "departure": "KATL",
-    "arrival": "KJFK",
-    "flightLevel": "FL410",
-    "flightTime": "01:50",
+    "departure": "LEBB",
+    "arrival": "LIRP",
+    "flightLevel": "FL400",
+    "flightTime": "01:27",
     "status": "LIVE"
 }
