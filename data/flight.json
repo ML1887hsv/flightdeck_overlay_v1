@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCR",
     "aircraft": "Airbus A330-300",
-    "departure": "LFSB",
-    "arrival": "EDDH",
-    "flightLevel": "FL260",
-    "flightTime": "01:18",
+    "departure": "VQPR",
+    "arrival": "VNKT",
+    "flightLevel": "FL380",
+    "flightTime": "00:50",
     "status": "LIVE"
 }
