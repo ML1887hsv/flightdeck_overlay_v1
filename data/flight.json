@@ -1,9 +1,9 @@
 {
-    "flight": "G-INEO",
-    "aircraft": "Airbus A320neo",
-    "departure": "EDDH",
-    "arrival": "LDSP",
-    "flightLevel": "FL390",
-    "flightTime": "01:42",
+    "flight": "G-NELR",
+    "aircraft": "Airbus A321",
+    "departure": "EFHK",
+    "arrival": "ENTC",
+    "flightLevel": "FL340",
+    "flightTime": "01:39",
     "status": "LIVE"
 }
