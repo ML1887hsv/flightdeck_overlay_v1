@@ -1,9 +1,9 @@
 {
-    "flight": "G-NELR",
-    "aircraft": "Airbus A321",
-    "departure": "EFHK",
-    "arrival": "ENTC",
-    "flightLevel": "FL340",
-    "flightTime": "01:39",
+    "flight": "G-CCCR",
+    "aircraft": "Airbus A333-300",
+    "departure": "EDDF",
+    "arrival": "LEMD",
+    "flightLevel": "FL380",
+    "flightTime": "01:58",
     "status": "LIVE"
 }
