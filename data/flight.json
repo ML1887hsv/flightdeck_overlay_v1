@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCR",
     "aircraft": "Airbus A320neo",
-    "departure": "SAWC",
-    "arrival": "SAWH",
-    "flightLevel": "FL390",
-    "flightTime": "00:58",
+    "departure": "VNKT",
+    "arrival": "VQPR",
+    "flightLevel": "FL350",
+    "flightTime": "00:48",
     "status": "LIVE"
 }
