@@ -1,9 +1,9 @@
 {
     "flight": "G-CCCR",
-    "aircraft": "Airbus A333-300",
-    "departure": "EDDF",
-    "arrival": "LEMD",
-    "flightLevel": "FL380",
-    "flightTime": "01:58",
+    "aircraft": "Airbus A320neo",
+    "departure": "SAWC",
+    "arrival": "SAWH",
+    "flightLevel": "FL390",
+    "flightTime": "00:58",
     "status": "LIVE"
 }
