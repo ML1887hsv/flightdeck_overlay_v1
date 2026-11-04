@@ -1,9 +1,9 @@
 {
-    "flight": "G-CCCR",
+    "flight": "G-INEO",
     "aircraft": "Airbus A320neo",
-    "departure": "VNKT",
-    "arrival": "VQPR",
-    "flightLevel": "FL350",
-    "flightTime": "00:48",
+    "departure": "EDDH",
+    "arrival": "LIPB",
+    "flightLevel": "FL390",
+    "flightTime": "01:27",
     "status": "LIVE"
 }
